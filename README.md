@@ -11,8 +11,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/shravani-jadhav-408300233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shravani-jadhav-408300233" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerrank.com/aditi_bairagi89/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/aditi_bairagi89/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/aditibairvndr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/aditibairvndr" height="30" width="40" /></a>
+
+<a href="https://github.com/Shravanij20/Shravanij20" target="blank"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
