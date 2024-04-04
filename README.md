@@ -20,7 +20,4 @@
 
 <p><img align="left" src="https://github.com/Shravanij20/Shravanij20/new/main?filename=README.md" alt="Shravanij20" /></p>
 
-<p>&nbsp;<img align="center" src="https://github.com/Shravanij20/Shravanij20/new/main?filename=README.md" alt="Shravanij20" /></p>
-
-<p><img align="center" src="https://github.com/Shravanij20/Shravanij20/new/main?filename=README.md" alt="Shravanij20" /></p>
 
